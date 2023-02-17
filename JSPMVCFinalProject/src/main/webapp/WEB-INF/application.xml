@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+  <!-- 메뉴판 : 미등록 시 Controller가 확인 불가-->
+  <bean class="com.sist.model.MainModel"/>
+  <bean class="com.sist.model.FoodModel"/>
+  <bean class="com.sist.model.SeoulModel"/>
+  <bean class="com.sist.model.GoodsModel"/>
+  <bean class="com.sist.model.MemberModel"/>
+  <bean class="com.sist.model.FreeBoardModel"/>
+  <bean class="com.sist.model.RecipeModel"/>
+  <bean class="com.sist.model.AllReplyModel"/>
+  <bean class="com.sist.model.AdminModel"/>
+  <bean class="com.sist.model.MyPageModel"/>
+  <bean class="com.sist.model.NoticeModel"/>
+  <bean class="com.sist.model.JjimModel"/>
+  <bean class="com.sist.model.LikeModel"/>
+  <bean class="com.sist.model.ReserveModel"/>
+</beans>
